@@ -171,6 +171,7 @@ This spike in epidemics likely resulted from various factors, including infectio
 The decrease in epidemic events over time could be attributed to advancements in medical science, improved public health measures, and international collaboration. These factors have contributed to better disease control and prevention.
 
 Limitations:
+
 It's a relatively small dataset, covering a limited number of years, which makes it challenging to identify long-term trends
 
 For a more comprehensive analysis and to identify significant trends, it would be beneficial to have access to a more extensive and longer-term dataset.
