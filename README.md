@@ -160,6 +160,22 @@ Epidemic (Human): #4
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/01a42572-6fc3-4426-a3e9-84f7c271e0b3)
 
+The data suggests that floods and storms have become more common in recent years compared to earlier ones.
+This increase in frequency may be indicative of changing climate patterns and weather events.
+Epidemic Peaks Between 2000 and 2003:
+
+During the early 2000s, there was a notable peak in epidemic events.
+These epidemics were attributed to outbreaks of diseases such as cholera in South Africa, Nigeria, and India, as well as measles in South Korea and yellow fever in Brazil.
+This spike in epidemics likely resulted from various factors, including infectious disease dynamics and healthcare challenges.
+
+The decrease in epidemic events over time could be attributed to advancements in medical science, improved public health measures, and international collaboration. These factors have contributed to better disease control and prevention.
+
+Limitations:
+
+It's a relatively small dataset, covering a limited number of years, which makes it challenging to identify long-term trends
+
+For a more comprehensive analysis and to identify significant trends, it would be beneficial to have access to a more extensive and longer-term dataset.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (6)	Which countries might be the ‘safest’ from, or most ‘at risk’ of natural disasters? (BONUS)
@@ -174,5 +190,14 @@ Visual represent the top 10 countries with the ‘fewest disasters’:
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/b105ed98-2240-4890-bac3-36e46252dec9)
 
+India and China have the highest number of recorded disasters, with 260 each. This is largely due to their large populations and extensive geographical areas, which increase their vulnerability to a wide range of disasters, including floods, earthquakes, and storms.
+
+These countries' disaster profiles are influenced by their geographical locations, climate patterns, and population density
+
+Limitations:
+
+Just because a country has a low number of recorded disasters doesn't mean it's safe in all aspects. Safety also depends on things like stable politics, a strong economy, good healthcare, education, and infrastructure. True safety involves addressing these broader factors along with disaster preparedness.
+
+Countries that have experienced disasters in the past aren't always in a constant state of risk. Risk levels can change over time due to factors like better disaster planning, infrastructure improvements, and adapting to changes in the environment.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
