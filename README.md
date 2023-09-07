@@ -47,6 +47,9 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
     - Prinmary tectonic plate locations: 'Indo-Australia', part of the 'Eurasian', and 'Caribbean' plates.
     - Reasoning: Regions of less landmass per tectonic plate and surrounded by large volumes of oceanic water (experience less frequent disasters)
 
+- Limitation:
+    - CSV.FILE data had empty Longitude and Latitude values in large portion of the data.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (2)	What is the correlation between natural disaster frequency and average temperatures over time?
