@@ -75,26 +75,6 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
 (2)	What is the correlation between natural disaster frequency and average temperatures over time?
 
-
-
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/75e2ab3d-e65d-48e3-abb3-876d080c9f80)
-
-
-
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/5b1eda61-2488-48ec-9bae-75047a5d88bb)
-
-
-
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/f911c3bf-792e-4f98-85ea-2f161dd094cc)
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-(3)	What category of natural disaster is more likely to occur during specific seasons?
-
-
 Dataframe for Disaster and Temperature
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/0636802c-1ea7-4e68-869e-c26028a00649)
@@ -102,9 +82,10 @@ Dataframe for Disaster and Temperature
 - Number of original rows count: 23,252
 - Number of rows after applying API query temperature data, 2,277
 
-Local Data - Open Weather API
+Local Data - Open Weather API Visual Graph
 
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/8ae230c7-fd99-493d-b40f-fc83941d6f00)
+
 
 Correlation between Natural Disaster Frequency Vs. Average Local Temperature
 
@@ -113,7 +94,7 @@ Correlation between Natural Disaster Frequency Vs. Average Local Temperature
 - Correlation Summary for Natural Disaster Frequency Vs. Average Local Temperature:
     - The calculated r-value coefficient of -o.o yields a very weak, negative linear relationship.
  
-Natural Disaster Frequency Vs. Global Average Temperatures
+Global Data - Open Weather API Visual Graph
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/fae54bde-5373-49ac-9fa5-4e1d23a3a51d)
 
@@ -123,6 +104,16 @@ Correlation between Natural Disaster Frequency Vs. Average Global Temperature
 
 - Correlation Summary for Natural Disaster Frequency Vs. Average Local Temperature:
     - The calculated r-value coefficient of 0.73 yields a moderate to strong linear realtionship.
+ 
+Limitations: Global temperature has a significant positive relationship, whereby, the analysis for global cities does not. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(3)	What category of natural disaster is more likely to occur during specific seasons?
+
+Local Data - Open Weather API
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
