@@ -34,6 +34,9 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
 (1)	What is the influence of geographic coordinates on the frequency of natural disasters? Compare the Northern Hemisphere Vs. Southern Hemisphere.
 
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/ff6a1ac0-d67e-4a0e-9a82-35462001c816)
+
+
 (2)	What is the correlation between natural disaster frequency and average temperatures over time?
 
 (3)	What category of natural disaster is more likely to occur during specific seasons?
