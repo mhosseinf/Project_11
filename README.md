@@ -1,16 +1,16 @@
 ### PROJECT 1: GLOBAL NATURAL DISASTERS 
 
-GLOBAL NATURAL DISASTERS VS. TEMPERATURE
+#GLOBAL NATURAL DISASTERS VS. TEMPERATURE
 
-44 YEAR ANALYSIS
+#44 YEAR ANALYSIS
 
-1979-2023
+#1979-2023
 
-Data Visualisation Project
+#Data Visualisation Project
 
-Dominique Spencer, Hieu Lam, Hossein Falsafi, & Ryan James
+#Dominique Spencer, Hieu Lam, Hossein Falsafi, & Ryan James
 
-University of Western Australia
+#University of Western Australia
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ University of Western Australia
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Abstract
+##Abstract
 
 With economic demands soaring, population growth rising, and urban sprawl expanding, humans are becoming more exposed and aware to environmental disasters (natural and non-natural). The purpose of this research project is to analyse the correlation between the number of environmental disasters and the impact this is having on global temperatures over the last 44 years (1979-2023). Furthermore, these variables will be intentionally scrutinized to identify any significant trends and/or correlations to see if they are statistically significant or not. 
 
-#Introduction
+##Introduction
 
 With the Earth spinning on its axis, rotating and in constant orbit, environmental disasters are largely uncontrollable. The Earth’s landmass constitutes 29% of the total surface area and the remaining 71% is consumed by large bodies of ocean water. Over the last 44 years (1979-2023), the needs of human society are exponentially growing and changing, which is causing urban sprawl to expand in geographical parts of the world. This in essence is increasing the likelihood of humans experiencing environmental phenomena (natural and non-natural). 
 
@@ -30,71 +30,72 @@ Throughout this analysis, data has been collected from the “EM-DAT: Internatio
 
 Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(1)	What is the influence of geographic coordinates on the frequency of natural disasters? Compare the Northern Hemisphere Vs. Southern Hemisphere.
+###(1)	What is the influence of geographic coordinates on the frequency of natural disasters? Compare the Northern Hemisphere Vs. Southern Hemisphere.
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/ff6a1ac0-d67e-4a0e-9a82-35462001c816)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(2)	What is the correlation between natural disaster frequency and average temperatures over time?
-
-
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/75e2ab3d-e65d-48e3-abb3-876d080c9f80)
+###(2)	What is the correlation between natural disaster frequency and average temperatures over time?
 
 
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/5b1eda61-2488-48ec-9bae-75047a5d88bb)
+##![image](https://github.com/mhosseinf/Project_11/assets/141802851/75e2ab3d-e65d-48e3-abb3-876d080c9f80)
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-(3)	What category of natural disaster is more likely to occur during specific seasons?
+##![image](https://github.com/mhosseinf/Project_11/assets/141802851/5b1eda61-2488-48ec-9bae-75047a5d88bb)
 
 
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###(3)	What category of natural disaster is more likely to occur during specific seasons?
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-(4)	Are there global hotspots for specific disaster categories?
+##![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
 
 
-Floods (Natural): #1
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###(4)	Are there global hotspots for specific disaster categories?
+
+
+##Floods (Natural): #1
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/ee870913-104d-4132-b93a-63d678002c8e)
 
-Storms (Natural): #2
+##Storms (Natural): #2
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/4c44f9e5-4db8-4d94-94d5-aff69e496387)
 
-Earthquakes (Natural): #3
+##Earthquakes (Natural): #3
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/256a3537-46c9-4034-8c61-5ed07b347324)
 
-Epidemic (Human): #4
+##Epidemic (Human): #4
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/c374de04-b79a-4291-a256-13469723e654)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(5)	Are there any noticeable trends in different types of natural disasters over time?
+##(5)	Are there any noticeable trends in different types of natural disasters over time?
 
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/01a42572-6fc3-4426-a3e9-84f7c271e0b3)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(6)	Which countries might be the ‘safest’ from, or most ‘at risk’ of natural disasters? (BONUS)
+###(6)	Which countries might be the ‘safest’ from, or most ‘at risk’ of natural disasters? (BONUS)
 
 
-Visual represent the top 10 countries with the ‘most disasters’:
+##Visual represent the top 10 countries with the ‘most disasters’:
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/9d8bcbec-115f-4428-a74f-372c9e8bc3b1)
 
 
-Visual represent the top 10 countries with the ‘fewest disasters’:
+##Visual represent the top 10 countries with the ‘fewest disasters’:
 
-![image](https://github.com/mhosseinf/Project_11/assets/141802851/7a7bf438-da2a-442e-b261-92f40f0a6b27)
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/b105ed98-2240-4890-bac3-36e46252dec9)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
