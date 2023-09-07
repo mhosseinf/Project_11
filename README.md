@@ -20,7 +20,7 @@ University of Western Australia
 
 #Abstract
 
-With economic demands soaring, population growth rising, and urban sprawl expanding, humans are becoming more exposed and aware to environmental disasters (natural and non-natural) and are seeing the affects these are disasters are having on the Earth climate. The purpose of this research project is to analyse the correlation between the number of environmental disasters and the impact this is having on global temperatures over the last 44 years (1979-2023). Furthermore, these variables will be intentionally scrutinized to identify any significant trends and/or correlations to see if they are statistically significant or not. 
+With economic demands soaring, population growth rising, and urban sprawl expanding, humans are becoming more exposed and aware to environmental disasters (natural and non-natural). The purpose of this research project is to analyse the correlation between the number of environmental disasters and the impact this is having on global temperatures over the last 44 years (1979-2023). Furthermore, these variables will be intentionally scrutinized to identify any significant trends and/or correlations to see if they are statistically significant or not. 
 
 #Introduction
 
