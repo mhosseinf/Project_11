@@ -69,7 +69,7 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
     - Reasoning: Regions of less landmass per tectonic plate and surrounded by large volumes of oceanic water (experience less frequent disasters)
 
 - Limitation:
-    - CSV.FILE data had empty Longitude and Latitude values in large portion of the data.
+    - CSV.FILE data had empty Longitude and Latitude values for large portions of the data.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -95,8 +95,34 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 (3)	What category of natural disaster is more likely to occur during specific seasons?
 
 
+Dataframe for Disaster and Temperature
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/0636802c-1ea7-4e68-869e-c26028a00649)
+
+- Number of original rows count: 23,252
+- Number of rows after applying API query temperature data, 2,277
+
+Local Data - Open Weather API
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
 
+Correlation between Natural Disaster Frequency Vs. Average Local Temperature
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/d5957d87-c070-42a3-8e98-5734755f9c81)
+
+- Correlation Summary for Natural Disaster Frequency Vs. Average Local Temperature:
+    - The calculated r-value coefficient of -o.o yields a very weak, negative linear relationship.
+ 
+Natural Disaster Frequency Vs. Global Average Temperatures
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/fae54bde-5373-49ac-9fa5-4e1d23a3a51d)
+
+Correlation between Natural Disaster Frequency Vs. Average Global Temperature
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/181f993d-adc4-4a7b-80b3-1eaaeff164c8)
+
+- Correlation Summary for Natural Disaster Frequency Vs. Average Local Temperature:
+    - The calculated r-value coefficient of 0.73 yields a moderate to strong linear realtionship.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
