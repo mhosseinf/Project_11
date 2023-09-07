@@ -40,35 +40,46 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
 (2)	What is the correlation between natural disaster frequency and average temperatures over time?
 
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/75e2ab3d-e65d-48e3-abb3-876d080c9f80)
 
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/5b1eda61-2488-48ec-9bae-75047a5d88bb)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (3)	What category of natural disaster is more likely to occur during specific seasons?
 
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (4)	Are there global hotspots for specific disaster categories?
 
+
 Floods (Natural): #1
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/ee870913-104d-4132-b93a-63d678002c8e)
 
 Storms (Natural): #2
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/4c44f9e5-4db8-4d94-94d5-aff69e496387)
 
 Earthquakes (Natural): #3
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/256a3537-46c9-4034-8c61-5ed07b347324)
 
 Epidemic (Human): #4
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/c374de04-b79a-4291-a256-13469723e654)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (5)	Are there any noticeable trends in different types of natural disasters over time?
+
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/01a42572-6fc3-4426-a3e9-84f7c271e0b3)
 
@@ -76,10 +87,14 @@ Epidemic (Human): #4
 
 (6)	Which countries might be the ‘safest’ from, or most ‘at risk’ of natural disasters? (BONUS)
 
+
 Visual represent the top 10 countries with the ‘most disasters’:
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/9d8bcbec-115f-4428-a74f-372c9e8bc3b1)
 
+
 Visual represent the top 10 countries with the ‘fewest disasters’:
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/7a7bf438-da2a-442e-b261-92f40f0a6b27)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
