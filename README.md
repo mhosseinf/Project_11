@@ -194,6 +194,7 @@ India and China have the highest number of recorded disasters, with 260 each. Th
 These countries' disaster profiles are influenced by their geographical locations, climate patterns, and population density
 
 Limitations:
+
 Just because a country has a low number of recorded disasters doesn't mean it's safe in all aspects. Safety also depends on things like stable politics, a strong economy, good healthcare, education, and infrastructure. True safety involves addressing these broader factors along with disaster preparedness.
 
 Countries that have experienced disasters in the past aren't always in a constant state of risk. Risk levels can change over time due to factors like better disaster planning, infrastructure improvements, and adapting to changes in the environment.
