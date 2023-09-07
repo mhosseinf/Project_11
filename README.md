@@ -132,24 +132,39 @@ Overall: Winter is the most prominent season for regions to see an increase in d
 Limitations: all regions experience seasonal change different, whereby, some regions will have longer seasons then other.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(4)	Are there global hotspots for specific disaster categories?
+(4)	Are there global hotspots for specific disaster categories? For the top 10 cities.
 
 
 Floods (Natural): #1
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/ee870913-104d-4132-b93a-63d678002c8e)
 
+- Highest occurance per region: 'Southern Asia', 'South-Eastern Asia', and 'South America'.
+  
+
 Storms (Natural): #2
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/4c44f9e5-4db8-4d94-94d5-aff69e496387)
+
+- Highest occurance per region: 'Northern America', 'Eastern Asia', and 'South-Eastern Asia'.
+  
 
 Earthquakes (Natural): #3
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/256a3537-46c9-4034-8c61-5ed07b347324)
 
+- Highest occurance per region: 'Eastern Asia', 'Southern Asia', and 'South-Eastern Asia'.
+  
+
 Epidemic (Human): #4
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/c374de04-b79a-4291-a256-13469723e654)
+
+- Highest occurance per region: 'Eastern Africa', 'Western Africa', and 'Middle Africa'.
+
+
+Limitations:
+- The dataset used does not define the characteristics (magnitude and size) of each disaster time - thus, all data entries are treated as "equal"
 
 
 
