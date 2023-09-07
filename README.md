@@ -34,17 +34,36 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
 (1)	What is the influence of geographic coordinates on the frequency of natural disasters? Compare the Northern Hemisphere Vs. Southern Hemisphere.
 
+
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/ff6a1ac0-d67e-4a0e-9a82-35462001c816)
+
+
+- The highest number of disasters per region: 'South-Eastern Asia', 'Southern Asia', and 'Eastern Asia'.
+    - Primary Tectonic plate locations: 'Eurasian' and 'Indian' plates.
+    - Reasoning: Significantly dense landmass region comrpising of complex mountain system and plateaus.
+ 
+- The lowest number of disasters per region: 'Australia & New Zealand', 'Northern Europe', and 'Caribbean'.
+    - Prinmary tectonic plate locations: 'Indo-Australia', part of the 'Eurasian', and 'Caribbean' plates.
+    - Reasoning: Regions of less landmass per tectonic plate and surrounded by large volumes of oceanic water (experience less frequent disasters)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (2)	What is the correlation between natural disaster frequency and average temperatures over time?
 
 
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/75e2ab3d-e65d-48e3-abb3-876d080c9f80)
 
 
+
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/5b1eda61-2488-48ec-9bae-75047a5d88bb)
+
+
+
+![image](https://github.com/mhosseinf/Project_11/assets/141802851/f911c3bf-792e-4f98-85ea-2f161dd094cc)
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
