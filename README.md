@@ -187,7 +187,7 @@ The decrease in epidemic events over time could be attributed to advancements in
 
 Limitations:
 
-It's a relatively small dataset, covering a limited number of years, which makes it challenging to identify long-term trends
+It's a relatively small dataset, covering a limited number of years, which makes it challenging to identify long-term trends.
 
 For a more comprehensive analysis and to identify significant trends, it would be beneficial to have access to a more extensive and longer-term dataset.
 
@@ -207,7 +207,6 @@ Visual represent the top 10 countries with the ‘fewest disasters’:
 
 India and China have the highest number of recorded disasters, with 260 each. This is largely due to their large populations and extensive geographical areas, which increase their vulnerability to a wide range of disasters, including floods, earthquakes, and storms.
 
-These countries' disaster profiles are influenced by their geographical locations, climate patterns, and population density
 
 Limitations:
 
