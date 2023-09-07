@@ -26,7 +26,28 @@ Introduction
 
 With the Earth spinning on its axis, rotating and in constant orbit, environmental disasters are largely uncontrollable. The Earth’s landmass constitutes 29% of the total surface area and the remaining 71% is consumed by large bodies of ocean water. Over the last 44 years (1979-2023), the needs of human society are exponentially growing and changing, which is causing urban sprawl to expand in geographical parts of the world. This in essence is increasing the likelihood of humans experiencing environmental phenomena (natural and non-natural). 
 
-Throughout this analysis, data has been collected from the “EM-DAT: International Disaster Database”, where all raw data entries had been stored from the previous 44 years (1979-2023). This database collects and stores data for all international disasters recorded since the early 1900’s, and provides a plethora of data (disaster type, region, city etc.) which was compiled and transformed into a centralised working csv.file for data analysis. In amalgamation to this, the “GISS Database – NASA”, was also applied to this csv.file to fill any missing Latitude and Longitude points for each city where the disaster occurred. After this data was combined, the “Open Weather Maps API”, was implemented to combine historical temperature data over the last 44 years (1979-2023), to review any trends and/ or correlations between these two variables. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sources
+
+- EM-DAT: THE INTERNATIONAL DISASTER DATABASE
+    - A global database which contains data on the occurrance and impacts of natural disasters since 1900.
+    - Collects data from an array of international agenices (United Nations, Research Institutions etc.)
+
+ - OPEN WEATHER MAPS API
+    - Provides historical, current and forecasted weather data via lightspeed APIs.
+    - Histroical timestamp of temperature data was used from 1979-2023.
+  
+- GISS
+    - NASA's Goddard Institute for Space Studies.
+    - Predicts atmospheric and climate changes.
+ 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scope
+
+This project will remain within the bounds of 'global natural disaster data' and the 'local & global temperature data' variables spanning over the last 44 years (1979-2023) with the strong intentions of identifying and scrutinising any significant trends and/ or correlations between them.
 
 Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
