@@ -160,6 +160,21 @@ Epidemic (Human): #4
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/01a42572-6fc3-4426-a3e9-84f7c271e0b3)
 
+The data suggests that floods and storms have become more common in recent years compared to earlier ones.
+This increase in frequency may be indicative of changing climate patterns and weather events.
+Epidemic Peaks Between 2000 and 2003:
+
+During the early 2000s, there was a notable peak in epidemic events.
+These epidemics were attributed to outbreaks of diseases such as cholera in South Africa, Nigeria, and India, as well as measles in South Korea and yellow fever in Brazil.
+This spike in epidemics likely resulted from various factors, including infectious disease dynamics and healthcare challenges.
+
+The decrease in epidemic events over time could be attributed to advancements in medical science, improved public health measures, and international collaboration. These factors have contributed to better disease control and prevention.
+
+Limitations:
+It's a relatively small dataset, covering a limited number of years, which makes it challenging to identify long-term trends
+
+For a more comprehensive analysis and to identify significant trends, it would be beneficial to have access to a more extensive and longer-term dataset
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (6)	Which countries might be the ‘safest’ from, or most ‘at risk’ of natural disasters? (BONUS)
