@@ -121,6 +121,15 @@ Local Data - Open Weather API
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/d679b1b0-5443-4b84-b371-d70ae6bede7d)
 
+-	Basic summaries, of the data:
+    o	Earthquakes occur more frequently in autumn
+    o	Floods occurs more frequently in winter
+    o	Extreme temperatures occur more frequently in summer
+    o	Volcanic activity occurs more frequently in winter
+
+Overall: Winter is the most prominent season for regions to see an increase in disaster occurance.
+
+Limitations: all regions experience seasonal change different, whereby, some regions will have longer seasons then other.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (4)	Are there global hotspots for specific disaster categories?
@@ -141,6 +150,8 @@ Earthquakes (Natural): #3
 Epidemic (Human): #4
 
 ![image](https://github.com/mhosseinf/Project_11/assets/141802851/c374de04-b79a-4291-a256-13469723e654)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
