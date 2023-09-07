@@ -24,7 +24,7 @@ Throughout this analysis, data has been collected from the “EM-DAT: The Intern
 
 Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 (1)	What is the influence of geographic coordinates on the frequency of natural disasters? Compare the Northern Hemisphere Vs. Southern Hemisphere.
