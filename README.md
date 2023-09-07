@@ -8,9 +8,9 @@ GLOBAL NATURAL DISASTERS VS. TEMPERATURE
 
 Data Visualisation Project
 
-#Dominique Spencer, Hieu Lam, Hossein Falsafi, & Ryan James
+Dominique Spencer, Hieu Lam, Hossein Falsafi, & Ryan James
 
-#University of Western Australia
+University of Western Australia
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
