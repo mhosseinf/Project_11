@@ -70,6 +70,14 @@ Furthermore, the following questions will be dissected with a Jupyter Notebook:
 
 - Limitation:
     - CSV.FILE data had empty Longitude and Latitude values for large portions of the data.
+    - Some of the cities didn’t have Max temp 
+We created a series to find the number of disasters based on the region, and we called it Disaster_counts. The data shows that the frequency distribution of natural disasters across different geographic regions is different.  We convert the data into a Bar chart to better understand and visualise the data.
+Here's what you can gather from the data.
+
+1-	You'll identify the regions with the highest frequency of natural disasters as South-Eastern Asia and Southern Asia.
+2-	Regions with lower disaster counts will also be visible, helping to identify areas that are relatively less affected by natural disasters.
+To analyse the data in detail, we segmented it into two distinct data frames: one for the Northern Hemisphere Disaster Count and another for the Southern Hemisphere Disaster Count. We then applied code to display a sample of these respective data frames. We plotted a Pie chart to compare the distribution of disasters between hemispheres visually. From this chart, we can understand that 98% of disasters occurred in the northern hemisphere.
+Limitation: One limitation that became apparent during our analysis pertained to the accuracy of latitude and longitude data in the original dataset. We observed that some cities with negative latitudes were listed in the Regions of Northern Hemisphere, which is not consistent with geographical norms
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
